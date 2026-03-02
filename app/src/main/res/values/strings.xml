@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="nome">AGREGA RURAL</string>
+    <string name="slogan">O melhor para sua plantação</string>
+    <string name="botao1">Entrar</string>
+    <string name="botao2">Cadastre-se</string>
+    <string name="acessar">Acesse sua \nconta</string>
+    <string name="email">Email</string>
+</resources>
