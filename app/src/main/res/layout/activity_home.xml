@@ -65,7 +65,8 @@
                     app:icon="@drawable/perfil"
                     app:iconGravity="textStart"
                     app:iconPadding="0dp"
-                    app:iconSize="50dp" />
+                    app:iconSize="50dp"
+                    android:contentDescription="perfil"/>
 
             </LinearLayout>
 
